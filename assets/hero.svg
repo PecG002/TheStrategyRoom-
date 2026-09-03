@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
-<rect width="1200" height="900" rx="30" fill="#0B2B20"/>
-<path d="M80 700C230 520 380 780 520 590S800 300 1120 220" stroke="#C9A227" stroke-opacity=".55" stroke-width="2"/>
-<path d="M50 760C250 610 350 850 610 650S880 420 1170 380" stroke="#F5F1E8" stroke-opacity=".15" stroke-width="1"/>
-<g opacity=".9"><rect x="180" y="180" width="250" height="150" rx="14" fill="#103A2B" stroke="#C9A227" stroke-opacity=".55"/><text x="210" y="230" fill="#C9A227" font-family="Arial" font-size="18" letter-spacing="4">FOUNDATION</text><path d="M215 270H390M215 290H345" stroke="#F5F1E8" stroke-opacity=".45" stroke-width="3"/></g>
-<g opacity=".95"><rect x="470" y="340" width="280" height="160" rx="14" fill="#124332" stroke="#C9A227" stroke-opacity=".75"/><text x="500" y="395" fill="#C9A227" font-family="Arial" font-size="18" letter-spacing="4">PROCESS</text><path d="M505 435H705M505 455H650" stroke="#F5F1E8" stroke-opacity=".45" stroke-width="3"/></g>
-<g opacity=".9"><rect x="790" y="160" width="240" height="145" rx="14" fill="#103A2B" stroke="#C9A227" stroke-opacity=".55"/><text x="820" y="215" fill="#C9A227" font-family="Arial" font-size="18" letter-spacing="4">OVERSIGHT</text><circle cx="865" cy="255" r="24" stroke="#C9A227" stroke-width="2"/><path d="M905 255H990" stroke="#F5F1E8" stroke-opacity=".45" stroke-width="3"/></g>
-<g stroke="#C9A227" stroke-width="2" stroke-opacity=".5"><path d="M430 255L470 410"/><path d="M750 410L790 240"/></g>
-<g fill="#C9A227"><circle cx="430" cy="255" r="6"/><circle cx="470" cy="410" r="6"/><circle cx="750" cy="410" r="6"/><circle cx="790" cy="240" r="6"/></g>
-<circle cx="1040" cy="690" r="100" stroke="#C9A227" stroke-opacity=".18"/><circle cx="1040" cy="690" r="60" stroke="#F5F1E8" stroke-opacity=".12"/>
-<g stroke="#F5F1E8" stroke-opacity=".08"><path d="M0 100H1200M0 200H1200M0 300H1200M0 400H1200M0 500H1200M0 600H1200M0 700H1200M0 800H1200"/><path d="M100 0V900M200 0V900M300 0V900M400 0V900M500 0V900M600 0V900M700 0V900M800 0V900M900 0V900M1000 0V900M1100 0V900"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#102B22"/><g opacity=".16" stroke="#F5F1E8" fill="none"><path d="M80 120H1120M80 260H1120M80 400H1120M80 540H1120M80 680H1120M80 820H1120"/><path d="M150 70V830M350 70V830M550 70V830M750 70V830M950 70V830"/></g>
+<g fill="none" stroke="#C9A227" stroke-width="3"><path d="M175 630 C320 540 420 680 560 490 S820 310 1010 410"/><path d="M170 700 C340 560 500 780 690 570 S930 410 1050 520" opacity=".55"/></g>
+<g fill="#183D31" stroke="#C9A227" stroke-width="2"><rect x="120" y="160" width="230" height="110" rx="4"/><rect x="430" y="120" width="260" height="130" rx="4"/><rect x="780" y="185" width="250" height="105" rx="4"/><rect x="300" y="420" width="260" height="120" rx="4"/><rect x="670" y="400" width="270" height="140" rx="4"/></g>
+<g fill="#F5F1E8" font-family="Arial, sans-serif" font-size="24"><text x="150" y="210">FOUNDATION</text><text x="465" y="180">PROCESS</text><text x="815" y="230">OVERSIGHT</text><text x="335" y="470">WORKFLOW</text><text x="705" y="455">CONTROL</text></g>
+<g fill="#C9A227"><circle cx="350" cy="215" r="8"/><circle cx="430" cy="185" r="8"/><circle cx="690" cy="185" r="8"/><circle cx="780" cy="235" r="8"/><circle cx="560" cy="480" r="8"/><circle cx="670" cy="470" r="8"/></g>
 </svg>
