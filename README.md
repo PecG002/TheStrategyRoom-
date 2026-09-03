@@ -1,12 +1,10 @@
-# The Strategy Room Website
+# The Strategy Room — Website V2
+Premium editorial × modern strategy studio redesign.
 
-Open `index.html` in a browser to preview locally.
+## Publish to GitHub Pages
+1. Replace your old repository files with the contents of this folder.
+2. Keep `index.html` in the repository root.
+3. Go to **Settings → Pages → Deploy from a branch → main → /(root)**.
+4. Save and wait for the deployment.
 
-Files:
-- index.html — website structure
-- styles.css — responsive styling and animations
-- script.js — navigation, modal, framework, systems, timeline and diagnostic interactions
-- strategy-room-logo.png — cropped supplied logo treatment without the attribution
-- norah-otieno.png — supplied founder image
-
-For deployment, upload all files together to any static web host.
+Assets are in `/assets`.
